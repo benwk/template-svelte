@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { DashboardPage } from '$lib/components/dashboard';
+	import { DashboardPage } from '$components';
 </script>
 
 <DashboardPage />
